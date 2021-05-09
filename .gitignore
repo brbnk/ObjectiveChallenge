@@ -1,0 +1,9 @@
+.vs/
+
+GourmetGameConsole/bin/
+GourmetGameConsole/obj/
+
+GourmetGameConsoleTests/bin/
+GourmetGameConsoleTests/obj/
+
+TestResults/
